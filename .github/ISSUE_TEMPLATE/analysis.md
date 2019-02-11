@@ -12,5 +12,5 @@ assignees: ''
 ### Why?
 
 ### Tasks:
-[ ] to do 1
-[ ] to do 2
+- [ ] to do 1
+- [ ] to do 2
